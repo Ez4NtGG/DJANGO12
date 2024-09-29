@@ -1,6 +1,0 @@
-.env
-*/__pycache__/
-**/__pycache__/
-.*/
-notes/media/*
-!notes/media/default_avatar.png
